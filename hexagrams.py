@@ -2,6 +2,7 @@
 yin = "————  ————"
 yang = "——————————"
 
+
 text_dict = {
     # 乾为天
     f"{yang}\n{yang}\n{yang}\n{yang}\n{yang}\n{yang}": 
