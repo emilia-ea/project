@@ -2,7 +2,6 @@
 yin = "————  ————"
 yang = "——————————"
 
-
 text_dict = {
     # 乾为天
     f"{yang}\n{yang}\n{yang}\n{yang}\n{yang}\n{yang}": 
@@ -92,7 +91,7 @@ text_dict = {
     f"{yang}\n{yin}\n{yang}\n{yin}\n{yin}\n{yang}": 
     "Obstacles and conflicts are inevitable. It is best to stick to the usual rules and not be tempted by profit, as the problem will eventually be resolved.",    
     #泽雷随
-    f"{yang}\n{yin}\n{yin}\n{yin}\n{yin}\n{yang}": 
+    f"{yin}\n{yang}\n{yang}\n{yin}\n{yin}\n{yang}": 
     "This is a sign of getting rid of the old and welcoming the new. It is best to work with others for great rewards, but avoid being indecisive or acting alone.",    
     #震为雷
     f"{yin}\n{yin}\n{yang}\n{yin}\n{yin}\n{yang}": 
